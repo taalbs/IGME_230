@@ -29,3 +29,13 @@ The controls will be slightly different for Desktop and Mobile support:
 - Desktop will use the arrow keys or WASD
 - Mobile can use the touch screen to turn left right
 - Mobile might have accelerometer to turn. 
+
+## VII. Screenshots ##
+Here are a few mockup screen shots of what the game might potentially look like. 
+**Still in progress.**
+
+## VIII. Other ##
+I like trains
+
+## IX. About the Developer ##
+My name is Ben Talbot, I am a 5th year Computer Engineering and Technology major at RIT. I have always enjoyed coding, so game design felt outside of my field, but I always enjoy a challenge. Unfortunately I don't have much experience drawing or designing, so the graphics will be slightly under-par. I hope I can carry any of my previous skills into this project.
