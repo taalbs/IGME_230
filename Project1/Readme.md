@@ -21,10 +21,10 @@ The graphic style for this game with be  cartoonish feel with very simple design
 
 ## VI. Gameplay ##
 
-###Mechanics ###
+### Mechanics ###
 The choices made by the player will only be able to move left and right or remain going straight. There will be a leaderboard implmented so players can track progress.
 
-###Control ###
+### Control ###
 The controls will be slightly different for Desktop and Mobile support:
 - Desktop will use the arrow keys or WASD
 - Mobile can use the touch screen to turn left right
